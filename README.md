@@ -21,3 +21,4 @@ This Power BI dashboard provides a comprehensive analysis of sales performance f
 
 This dashboard is designed to provide actionable insights to help optimize inventory, improve customer satisfaction, and maximize revenue generation.
 # Dashboard Screenshot
+![blinkit Analysis](https://github.com/Deepikasept1995/blinkit-analysis/blob/main/Screenshot%202025-01-10%20154315.png?raw=true)
